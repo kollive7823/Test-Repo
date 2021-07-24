@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is B4D6-9D87
+
+ Directory of C:\Users\akash\OneDrive\Desktop\Venu\Venu Samples\Firstproject
+
+07/24/2021  02:08 PM    <DIR>          .
+07/24/2021  02:08 PM    <DIR>          ..
+07/24/2021  02:08 PM                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  731,274,256,384 bytes free
